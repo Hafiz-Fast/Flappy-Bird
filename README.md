@@ -1,4 +1,4 @@
-# Flappy-Bird
+# Flappy Bird
 The classic flappy bird game recreated in Assembly Language (16-bit with x88 architecture) using Display Memory, Hardware interupts, Software interupts, String instructions, and Multitasking.
 The key features of this project include:
 1, Loading Screen
